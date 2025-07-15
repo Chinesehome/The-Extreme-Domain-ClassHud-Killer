@@ -17,7 +17,7 @@ A tool to manage/terminate Extreme Domain Electronic Classroom processes
 监控模式（默认）：自动终止任何尝试启动的极域进程
 运行模式：允许极域客户端正常运行
 切换方法：点击屏幕右上角 30×30 像素区域
-![效果](https://github.com/Chinesehome/Extreme-Domain-ClassHub-Killer/readme/屏幕截图_2.gif)
+![效果](https://raw.githubusercontent.com/Chinesehome/The-Extreme-Domain-ClassHud-Killer/refs/heads/main/readme/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2.gif)
 注意事项：
 需以管理员权限运行以确保终止进程的有效性
 首次使用需手动启动一次极域客户端以完成路径记录
