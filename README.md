@@ -1,6 +1,6 @@
 # The Extreme Domain ClassHud Killer
 A tool to manage/terminate Extreme Domain Electronic Classroom processes (studentmain.exe) for Windows.（用于管理 / 终止极域电子教室 Windows 端进程的工具 ）
-![程序运行界面](https://github.com/your-username/Extreme-Domain-ClassHub-Killer/readme/屏幕截图_1.png)
+![程序运行界面]([https://github.com/your-username/Extreme-Domain-ClassHub-Killer/readme/屏幕截图_1.png](https://raw.githubusercontent.com/Chinesehome/The-Extreme-Domain-ClassHud-Killer/refs/heads/main/readme/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_1.png))
 Extreme Domain ClassHub Killer
 一个用于管理极域电子教室客户端进程的工具
 A tool to manage/terminate Extreme Domain Electronic Classroom processes
